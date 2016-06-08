@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:31.580638
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:11
 #+TITLE: 進新譯大方廣佛花嚴經表
 #+PROPERTY: CBETA_ID W06n0056
 #+PROPERTY: ID KR6v0068
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 06, No. 056
 #+PROPERTY: VOL 06
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0068_W_001-0382a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 《進新譯大方廣佛花嚴經表》（附總目）¶
 弘景撰整理者　方廣錩¶
 ¶
 
@@ -58,10 +58,10 @@
 的抄寫年代應在八世紀下半葉至九世紀上半葉。¶
 ¶
 
-錄文¶
+* 〔錄文〕¶
 ¶
 
-進新譯大方廣佛花嚴經表¶
+** 進新譯大方廣佛花嚴經表¶
 ¶
 
 沙門弘景等言：竊以理不自得，籍教而悟；教不自¶
@@ -107,7 +107,7 @@
 <pb:KR6v0068_W_001-0385a>¶
 ¶
 
-大周新譯大方廣佛花嚴經總目一卷¶
+** 大周新譯大方廣佛花嚴經總目一卷¶
 
 此經一部，總於七處九會說三十九品，八十卷。三¶
 藏沙門于闐國僧實叉難陀等奉制譯。¶
